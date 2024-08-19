@@ -1,11 +1,11 @@
-
+/*
 terraform {
   backend "gcs" {
     bucket  = "NAME OF GCS BUCKET"
     prefix  = "PATH IN GCS BUCKET"
   }
 }
-
+*/
 // Configure the Google Cloud provider
 provider "google" {
 }

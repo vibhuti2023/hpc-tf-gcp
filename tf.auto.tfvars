@@ -22,7 +22,7 @@ partitions = [{name = "demo"
                              gpu_count = 0
                              gpu_type = ""
                              image = ""
-                             machine_type = "c2-standard-60"
+                             machine_type = "n1-standard-8"
                              max_node_count = 100
                              preemptible_bursting = false
                              zone = "ZONE"
